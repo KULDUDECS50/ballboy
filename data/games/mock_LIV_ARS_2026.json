@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "match_id": "MOCK-LIV-ARS-2026-05",
+    "competition": "Premier League",
+    "home_team": "Liverpool",
+    "away_team": "Arsenal",
+    "venue": "Anfield",
+    "kickoff": "2026-05-11T16:30:00Z",
+    "status": "finished",
+    "home_lineup": ["Alisson", "Alexander-Arnold", "Van Dijk", "Konaté", "Robertson",
+                    "Mac Allister", "Endo", "Szoboszlai", "Salah", "Núñez", "Díaz"],
+    "away_lineup": ["Raya", "White", "Saliba", "Gabriel", "Zinchenko",
+                    "Rice", "Ødegaard", "Havertz", "Saka", "Jesus", "Martinelli"],
+    "home_formation": "4-3-3",
+    "away_formation": "4-3-3"
+  },
+  "events": [
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":1,"source":"mock","minute":0,"period":1,"kind":"kickoff","text":"Kick-off. Liverpool get us underway.","side":"home","team_name":"Liverpool","home_score":0,"away_score":0},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":2,"source":"mock","minute":7,"period":1,"kind":"shot_on_target","text":"Salah cuts inside and tests Raya from 18 yards.","side":"home","team_name":"Liverpool","player_out":"Salah","home_score":0,"away_score":0},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":3,"source":"mock","minute":14,"period":1,"kind":"corner","text":"Corner to Arsenal after Robertson clears.","side":"away","team_name":"Arsenal","home_score":0,"away_score":0},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":4,"source":"mock","minute":15,"period":1,"kind":"shot_off_target","text":"Saka swings the corner in, Gabriel heads over.","side":"away","team_name":"Arsenal","player_out":"Gabriel","home_score":0,"away_score":0},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":5,"source":"mock","minute":23,"period":1,"kind":"goal","text":"GOAL! Núñez slots home from a Szoboszlai through-ball. 1-0!","side":"home","team_name":"Liverpool","player_out":"Núñez","home_score":1,"away_score":0},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":6,"source":"mock","minute":31,"period":1,"kind":"yellow_card","text":"Yellow card. Rice for a late tackle on Mac Allister.","side":"away","team_name":"Arsenal","player_out":"Rice","home_score":1,"away_score":0},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":7,"source":"mock","minute":38,"period":1,"kind":"shot_blocked","text":"Ødegaard's volley deflected behind for a corner.","side":"away","team_name":"Arsenal","player_out":"Ødegaard","home_score":1,"away_score":0},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":8,"source":"mock","minute":42,"period":1,"kind":"goal","text":"GOAL! Saka equalises with a curling shot to the far post. 1-1!","side":"away","team_name":"Arsenal","player_out":"Saka","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":9,"source":"mock","minute":45,"period":1,"kind":"half_time","text":"Half-time. Liverpool 1-1 Arsenal.","side":"neutral","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":10,"source":"mock","minute":46,"period":2,"kind":"kickoff","text":"Arsenal kick off the second half.","side":"away","team_name":"Arsenal","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":11,"source":"mock","minute":54,"period":2,"kind":"shot_on_target","text":"Salah cuts in, drives at goal, Raya parries.","side":"home","team_name":"Liverpool","player_out":"Salah","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":12,"source":"mock","minute":58,"period":2,"kind":"corner","text":"Corner Liverpool.","side":"home","team_name":"Liverpool","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":13,"source":"mock","minute":62,"period":2,"kind":"shot_on_target","text":"Díaz forces a stop from Raya at his near post.","side":"home","team_name":"Liverpool","player_out":"Díaz","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":14,"source":"mock","minute":65,"period":2,"kind":"substitution","text":"Arsenal sub: Trossard on for Martinelli.","side":"away","team_name":"Arsenal","player_in":"Trossard","player_out":"Martinelli","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":15,"source":"mock","minute":68,"period":2,"kind":"yellow_card","text":"Yellow card. Konaté for pulling back Jesus.","side":"home","team_name":"Liverpool","player_out":"Konaté","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":16,"source":"mock","minute":71,"period":2,"kind":"shot_off_target","text":"Jesus drags a shot wide from a tight angle.","side":"away","team_name":"Arsenal","player_out":"Jesus","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":17,"source":"mock","minute":74,"period":2,"kind":"substitution","text":"Liverpool sub: Jota on for Núñez.","side":"home","team_name":"Liverpool","player_in":"Jota","player_out":"Núñez","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":18,"source":"mock","minute":78,"period":2,"kind":"shot_on_target","text":"Jota's first action — a header that Raya tips over.","side":"home","team_name":"Liverpool","player_out":"Jota","home_score":1,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":19,"source":"mock","minute":83,"period":2,"kind":"goal","text":"GOAL! Jota nods home from Salah's cross. Anfield erupts. 2-1!","side":"home","team_name":"Liverpool","player_out":"Jota","home_score":2,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":20,"source":"mock","minute":86,"period":2,"kind":"yellow_card","text":"Yellow card. Trossard for a tactical foul.","side":"away","team_name":"Arsenal","player_out":"Trossard","home_score":2,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":21,"source":"mock","minute":89,"period":2,"kind":"corner","text":"Late corner Arsenal — Raya comes up.","side":"away","team_name":"Arsenal","home_score":2,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":22,"source":"mock","minute":90,"added_time":2,"period":2,"kind":"shot_off_target","text":"Saka strikes from distance — over the bar.","side":"away","team_name":"Arsenal","player_out":"Saka","home_score":2,"away_score":1},
+    {"match_id":"MOCK-LIV-ARS-2026-05","sequence":23,"source":"mock","minute":90,"added_time":5,"period":2,"kind":"full_time","text":"Full time. Liverpool 2-1 Arsenal.","side":"neutral","home_score":2,"away_score":1}
+  ]
+}

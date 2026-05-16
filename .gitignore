@@ -217,3 +217,19 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .env
+
+# SidelineIQ runtime artifacts (written by role3 + synthesis_agent)
+current_state.json
+current_state.json.tmp
+current_insight.json
+current_insight.json.tmp
+history_context.json
+vision_state.json
+vision_state.json.tmp
+*.log
+predictions.json
+events.json
+backtest_results.json
+
+# Local virtualenv
+.venv/
